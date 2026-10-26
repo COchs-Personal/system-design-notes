@@ -39,3 +39,5 @@ Edition 26 October 2026. Repository COchs-Personal/system-design-notes. Inspecte
 Source files: [Readme.md](https://github.com/COchs-Personal/system-design-notes/blob/aa7ac69e206bca659020baa5954bb65cfd70ab99/Readme.md).
 
 [Editable Word edition](Operations_Guide.docx) | [PDF edition](Operations_Guide.pdf)
+
+For architecture, code-level explanations, worked change recipes, and detailed recovery, use the [development handbook](../development-handbook/README.md).
